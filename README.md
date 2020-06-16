@@ -26,12 +26,12 @@ When starting to code, we usually want to right a lot of code. But, actually, we
 
 ## 11 Work in ``different kinds of projects`` with ``different technologies`` and ``architectures``. Staying in the same architecture for a long time do not help us to improve our coding skills.
 
-# The ``gap`` between a junior dev and a mid-level dev
+# The ``gap`` between a ``junior dev`` and a ``mid-level dev``
 After coding for some time in a company or in any association, we start to learn new ways (``better ways``) to do what we intend to do. This is exactly the gap between a junior dev and a mid-level dev. Is is the technologies that a mid-level dev knows that a junior dev does not. 
 
 When you start to feel pretty confident with the technologies used in industry and you start to really see results, you can call yourself a mid-level dev. 
 
-# The ``gap`` between a mid-level dev and a senior dev
+# The ``gap`` between a ``mid-level dev`` and a ``senior dev``
 A senior dev ``is not`` a senior dev because he or she know a lot of technologies, frameworks or programming languages. 
 
 A senior dev is a developer that knows how to deal with code in a more realistic way to take value from it. A senior dev knows what is important to code and what is not. The ``gap`` is indeed a difference in ``posture``, where we can start to see a ``developer that acts as a professional`` and we feel that he or she is worth of our trust and can take a lot of ``responsability`` and show ``good results``. 
