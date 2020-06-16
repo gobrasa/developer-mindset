@@ -1,4 +1,4 @@
-# Developer skills (that any developer needs to know)
+# Developer mindset (that any (good) developer needs to follow)
 Here we talk about the skills that are expected from any developer (by rank) at Code &amp; Coffee 55. This is not a tech list, it is indeed a mindset for all our projects. 
 
 
