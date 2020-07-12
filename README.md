@@ -1,18 +1,18 @@
 # Developer mindset (that any (good) developer needs to follow)
-Here we talk about the skills that are expected from any developer (by rank) at Code &amp; Coffee 55. This is not a tech list, it is indeed a mindset for all our projects. 
+Here we talk about the skills that are expected from any developer (by rank) at @gobrasa. This is not a tech list, it is indeed a mindset for all our projects. 
 
 
-When starting to code, we usually want to right a lot of code. But, actually, we do not need to write a lot of code to be a good developer. At Code & Coffee 55, the ``simplicity`` is the most important concept. ``Do not write code that is not needed``. 
+When starting to code, we usually want to right a lot of code. But, actually, we do not need to write a lot of code to be a good developer. At BRASA, the ``simplicity`` is the most important concept. ``Do not write code that is not needed``. 
 
-## 1 Code in a ``clean``, ``structured``, ``modularized``, ``solid``, following the ``good practices`` for each language with the ``good style`` imposed for each programming language or Code & Coffee 55 itself. 
+## 1 Code in a ``clean``, ``structured``, ``modularized``, ``solid``, following the ``good practices`` for each language with the ``good style`` imposed for each programming language or BRASA itself. 
 
 ## 2 Write ``unit tests`` for each basic function in the code.
 
-## 3 Get to know different ways to work with ``git``. ``Gitflow Workflow`` is the most used at Code & Coffee 55. But, some projects can use some ``Trunk Based Development`` or ``other strategies``. In the end, the most important is to ``have a good documentation posture`` for the commit log.
+## 3 Get to know different ways to work with ``git``. ``Gitflow Workflow`` is the most used at BRASA. But, some projects can use some ``Trunk Based Development`` or ``other strategies``. In the end, the most important is to ``have a good documentation posture`` for the commit log.
 
 ## 4 Get to know the DevOps basics. That is to say, implement a ``Continuous Integration (CI)`` approach for every project that you work on with a ``Continuous Delivery (CD)`` strategy for deployment.
 
-## 5 ``Be open to critics and feedback``. ``Code reviews`` are the best way that we can improve the code base at Code & Coffee 55. But, the open-minded posture does not end in the code. Any developer needs to be open for ``communication`` with others in order to improve ``teamwork``.
+## 5 ``Be open to critics and feedback``. ``Code reviews`` are the best way that we can improve the code base at BRASA. But, the open-minded posture does not end in the code. Any developer needs to be open for ``communication`` with others in order to improve ``teamwork``.
 
 ## 6 Have a ``good posture`` when ``working in a team`` (Dividing in a good way the personal life from the team work, in the end, it is all about ``mutual help``)
 
